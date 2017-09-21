@@ -54,27 +54,34 @@ body {
 }
 
 .circle {
-    margin-left: 50px;
+    margin-left: 200px;
+    margin-top: auto;
     background-image: url("images/act1.jpg");
     background-position-y: -30px;
     background-position-x: -190px;
 }
 
 .circle1 {
-    margin-left: 350px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: auto;
     background-image: url("images/act2.jpg");
     background-position-y: -40px;
     background-position-x: -170px;
 }
 
 .circle2 {
-    margin-left: 350px;
+    
+    float: right;
+    margin-right: 200px;
+    margin-top: auto;
     background-image: url("images/act3.jpg");
     background-size: cover;
     background-position-y: 0px;
     background-position-x: -65px;
     /* margin-right: 100px; */
 }
+
 
 
 /* #logo {
