@@ -54,7 +54,7 @@ body {
 }
 
 .circle {
-    margin-left: 50px;
+    margin-left: 10%;
     margin-top: auto;
     background-image: url("images/act1.jpg");
     background-position-y: -30px;
@@ -62,7 +62,8 @@ body {
 }
 
 .circle1 {
-    margin-left: 350px;
+    /* margin-left: 300px; */
+    margin-left: 18%;
     margin-top: auto;
     background-image: url("images/act2.jpg");
     background-position-y: -40px;
@@ -70,7 +71,9 @@ body {
 }
 
 .circle2 {
-    margin-left: 350px;
+    float: right;
+    margin-right: 10%;
+    margin-top: auto;
     background-image: url("images/act3.jpg");
     background-size: cover;
     background-position-y: 0px;
